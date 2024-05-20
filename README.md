@@ -14,3 +14,8 @@ fastapi dev app/main.py
 ```
 pytest
 ```
+
+## Coverage
+```
+pytest --cov=app
+```

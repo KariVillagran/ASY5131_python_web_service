@@ -1,1 +1,3 @@
-# ASY5131_python_web_service
+# ASY5131 python web service
+
+Proyecto base para la creacion de pruebas unitarias

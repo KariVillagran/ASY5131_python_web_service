@@ -38,4 +38,4 @@ ALGORITHM_HASH=
 DEBUG=True
 ```
 
-Asegurese de tener estas variables en el archivo, sino el proyecto no iniciara.
+Asegurese de definir estas variables en el archivo, sino el proyecto no iniciara.

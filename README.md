@@ -37,3 +37,5 @@ SECRET_KEY=
 ALGORITHM_HASH=
 DEBUG=True
 ```
+
+Asegurese de tener estas variables en el archivo, sino el proyecto no iniciara.
